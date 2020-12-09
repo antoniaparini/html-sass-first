@@ -1,0 +1,38 @@
+/*VARIABILI*/
+
+/*GENERAL STYLES*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  color: #fff;
+  background-color: #b5838d;
+}
+
+body h1 {
+  text-align: center;
+  color: #6d6875;
+  font-size: 50px;
+  padding-top: 30px;
+  padding-bottom: 25px;
+}
+
+body h2 {
+  text-align: center;
+  color: #e5989b;
+  font-size: 30px;
+  padding-bottom: 25px;
+}
+
+body p {
+  text-align: center;
+  color: #495057;
+  padding-bottom: 25px;
+  font-size: 18px;
+}
+

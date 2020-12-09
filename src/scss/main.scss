@@ -1,0 +1,46 @@
+/*VARIABILI*/
+$primary-color: #6d6875;
+$h2-col:#e5989b;
+$p-col:#495057;
+$bkg-col: #b5838d;
+
+
+/*GENERAL STYLES*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    
+    font-family: 'Lato', sans-serif;
+    color: #fff;
+    background-color:$bkg-col;
+
+    h1{
+        text-align: center;
+        color: $primary-color;
+        font-size: 50px;
+        padding-top: 30px;
+        padding-bottom: 25px;
+    }
+
+    h2{
+        text-align: center;
+        color: $h2-col;
+        font-size: 30px;
+        padding-bottom: 25px;
+        
+    }
+
+    p {
+        text-align: center;
+        color: $p-col;
+        padding-bottom: 25px;
+        font-size: 18px;
+    }
+
+}
+
